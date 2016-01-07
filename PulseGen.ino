@@ -1,7 +1,6 @@
 /*PULSE GENERATOR 1,03
 
 Tomasz Pasierbki
-VALEO 2014
 
 */
 
